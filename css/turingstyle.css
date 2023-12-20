@@ -26,20 +26,20 @@
 
   .overlay-text h1 
   {
-    font-size: 150%;
+    font-size: 250%;
     -webkit-text-stroke-width: 1.2px; 
     -webkit-text-stroke-color: black;
   }
 
   .overlay-text h2 
   {
-    font-size: 95%;
+    font-size: 195%;
     -webkit-text-stroke-width: 1.2px; 
     -webkit-text-stroke-color: black;
   }
 
   .overlay-text h4 {
-    font-size: 50%;
+    font-size: 150%;
     -webkit-text-stroke-width: 0.5px; 
     -webkit-text-stroke-color: aqua;
   }
